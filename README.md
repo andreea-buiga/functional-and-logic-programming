@@ -6,4 +6,4 @@
    <li>🌸 lisp</li>
  </ul>
 
-<a href="https://www.cs.ubbcluj.ro/~rares/course/os/">📌 course page</a>
+<a href="http://www.cs.ubbcluj.ro/~hfpop/teaching/pfl/">📌 course page</a>
